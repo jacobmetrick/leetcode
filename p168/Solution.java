@@ -23,7 +23,6 @@ public class Solution {
             if (remainder == 0) {
                 dividend--;
             }
-            System.out.println("Dividend is now " + dividend + " and remainder was " + remainder);
         }
         return result;
     }
